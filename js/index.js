@@ -1,3 +1,4 @@
 function func1(value) {
-	return value;
+	var val1 = value / 2;
+	return val1;
 }
