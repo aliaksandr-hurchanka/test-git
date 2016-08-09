@@ -6,3 +6,13 @@ function func1(value) {
 	
 	return val1;
 }
+
+function func2(value) {
+    var val = value / 3;
+    return val;
+}
+
+function func3(value) {
+    var val = value / 4;
+    return val;
+}
